@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F6DB0"/>
+      <stop offset="1" stop-color="#093F67"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="80" y="330" fill="#fff" font-family="Inter,sans-serif" font-size="80" font-weight="800">Arrivau</text>
+  <text x="80" y="410" fill="#F4A12A" font-family="Inter,sans-serif" font-size="42" font-weight="600">Australian Home Loans, Property &amp; Migration</text>
+  <text x="80" y="470" fill="#BED9EC" font-family="Inter,sans-serif" font-size="28">Licensed broker · MARN · Plain English guides</text>
+</svg>

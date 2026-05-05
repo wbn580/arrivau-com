@@ -1,0 +1,109 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arrivau — Australian Home Loans, Property &amp; Migration – Fixed Rate</title><link>https://www.arrivau.com/tags/fixed-rate/</link><description>Recent content in Fixed Rate on Arrivau — Australian Home Loans, Property &amp; Migration</description><generator>Hugo -- gohugo.io</generator><language>en-AU</language><managingEditor>hello@arrivau.com (Mitchell Harding)</managingEditor><webMaster>hello@arrivau.com (Mitchell Harding)</webMaster><copyright>Copyright © Arrivau Pty Ltd (ABN 81 643 901 599) · 16/650 George St, Sydney NSW 2000&lt;br>
+ASIC Credit Representative CRN 530978 · NSW Real Estate Licence 20253209 · Registered Migration Agent MARN 1687552&lt;br>
+Content on this site is general information only and does not constitute personal financial, tax or legal advice. Speak to a licensed professional before acting.</copyright><lastBuildDate>Sun, 12 Apr 2026 18:37:35 +1000</lastBuildDate><atom:link href="https://www.arrivau.com/tags/fixed-rate/index.xml" rel="self" type="application/rss+xml"/><item><title>How break costs on a fixed loan are actually calculated</title><link>https://www.arrivau.com/break-costs-on-fixed-loans/</link><pubDate>Sun, 12 Apr 2026 18:37:35 +1000</pubDate><author>hello@arrivau.com (Mitchell Harding)</author><guid>https://www.arrivau.com/break-costs-on-fixed-loans/</guid><description>
+&lt;p>When you repay or refinance a fixed-rate loan before the fixed period ends, the lender charges a break cost. The calculation method is publicly disclosed in every fixed-rate contract, but most borrowers never read it.&lt;/p>
+&lt;h2>The underlying principle&lt;span class="hx:absolute hx:-mt-20" id="the-underlying-principle">&lt;/span>
+&lt;a href="#the-underlying-principle" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>When you fixed your rate, the lender went to the wholesale market and fixed its own funding at the same term. If you break early and rates have fallen, the lender has to sell its swap position at a loss. The break cost recovers that loss.&lt;/p>
+&lt;p>Crucially, if rates have risen since you fixed, the break cost can be zero or even negative - the lender&amp;rsquo;s swap position is in profit. In practice lenders rarely rebate positive break costs; they just waive them.&lt;/p>
+&lt;h2>A worked example&lt;span class="hx:absolute hx:-mt-20" id="a-worked-example">&lt;/span>
+&lt;a href="#a-worked-example" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Suppose you fixed $600,000 for 3 years at 5.50% on 1 July 2024. Two years in, on 1 July 2026, you want to refinance. Remaining fixed term: 1 year. Current 1-year bank bill swap rate (BBSW): 3.80%.&lt;/p>
+&lt;p>The break cost formula is:&lt;/p>
+&lt;p>&lt;strong>Break cost = Loan balance × (Original swap rate - Current swap rate) × Remaining term&lt;/strong>&lt;/p>
+&lt;p>Rough numbers:&lt;/p>
+&lt;ul>
+&lt;li>Loan balance: ~$575,000 (reduced over 2 years of P&amp;amp;I repayments)&lt;/li>
+&lt;li>Original 3-year swap when you fixed: ~4.00%&lt;/li>
+&lt;li>Current 1-year swap: 3.80%&lt;/li>
+&lt;li>Remaining term: 1 year&lt;/li>
+&lt;/ul>
+&lt;p>Break cost ≈ $575,000 × (4.00% - 3.80%) × 1 = &lt;strong>$1,150&lt;/strong>&lt;/p>
+&lt;p>If rates had fallen further, say the current 1-year swap was 2.80%:&lt;/p>
+&lt;p>Break cost ≈ $575,000 × (4.00% - 2.80%) × 1 = &lt;strong>$6,900&lt;/strong>&lt;/p>
+&lt;p>And in a dramatic drop, 1.80%:&lt;/p>
+&lt;p>Break cost ≈ $575,000 × (4.00% - 1.80%) × 1 = &lt;strong>$12,650&lt;/strong>&lt;/p>
+&lt;p>The asymmetry is real: small rate moves cost hundreds; large moves cost thousands.&lt;/p>
+&lt;h2>Refinements the actual formula includes&lt;span class="hx:absolute hx:-mt-20" id="refinements-the-actual-formula-includes">&lt;/span>
+&lt;a href="#refinements-the-actual-formula-includes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Real lender formulas refine this with:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>NPV discounting&lt;/strong> - each year&amp;rsquo;s lost margin is discounted to present value&lt;/li>
+&lt;li>&lt;strong>Lender&amp;rsquo;s margin, not swap rate&lt;/strong> - some lenders use their internal cost of funds&lt;/li>
+&lt;li>&lt;strong>Administration fee&lt;/strong> - a flat $250-$400 on top of the calculation&lt;/li>
+&lt;/ul>
+&lt;p>Most lenders will give you a break-cost quote on request. It&amp;rsquo;s valid for 48 hours.&lt;/p>
+&lt;h2>When breaking still makes sense&lt;span class="hx:absolute hx:-mt-20" id="when-breaking-still-makes-sense">&lt;/span>
+&lt;a href="#when-breaking-still-makes-sense" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Three cases:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>The savings from refinancing outweigh the break cost.&lt;/strong> Rare - usually only true if the break cost is under $2,000 and the new rate is 100+ bps sharper for a long term.&lt;/li>
+&lt;li>&lt;strong>You need to sell.&lt;/strong> Selling a fixed-rate property with 2 years to go - you pay the break cost because you have to.&lt;/li>
+&lt;li>&lt;strong>You&amp;rsquo;re converting owner-occupier to investment.&lt;/strong> Sometimes the tax deductibility of a higher-rate investment loan outweighs the break cost on the lower-rate owner-occupier fixed.&lt;/li>
+&lt;/ol>
+&lt;h2>What never makes sense&lt;span class="hx:absolute hx:-mt-20" id="what-never-makes-sense">&lt;/span>
+&lt;a href="#what-never-makes-sense" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Breaking a fixed loan that has less than 6 months remaining, or breaking to fix at a longer term when swap rates have fallen further than the new fixed offering reflects.&lt;/p></description></item><item><title>Rate lock fees: when paying $750 to lock is worth it</title><link>https://www.arrivau.com/rate-lock-fees/</link><pubDate>Wed, 19 Nov 2025 20:22:27 +1000</pubDate><author>hello@arrivau.com (Mitchell Harding)</author><guid>https://www.arrivau.com/rate-lock-fees/</guid><description>
+&lt;p>Rate lock is insurance against an adverse rate move between application and settlement on a fixed-rate loan. Most lenders charge $500-$995 for the privilege, and the decision to pay for it is narrower than most brokers suggest.&lt;/p>
+&lt;h2>What rate lock does&lt;span class="hx:absolute hx:-mt-20" id="what-rate-lock-does">&lt;/span>
+&lt;a href="#what-rate-lock-does" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>When you apply for a fixed-rate loan, the rate quoted is today&amp;rsquo;s rate. Settlement might be 60-90 days away. If the lender&amp;rsquo;s fixed rates drop in the interim, you usually get the lower rate anyway at settlement. If they rise, you pay the higher rate - unless you paid to lock.&lt;/p>
+&lt;h2>The asymmetry matters&lt;span class="hx:absolute hx:-mt-20" id="the-asymmetry-matters">&lt;/span>
+&lt;a href="#the-asymmetry-matters" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Rate lock only benefits you in a rising-rate scenario. In a flat or falling-rate environment, you have paid $750 for nothing. In a rising-rate environment where the fixed rate moves 25 bps against you on a $600k loan, the five-year cost of that 25 bps is about $7,500. The $750 lock fee has paid for itself 10x.&lt;/p>
+&lt;h2>When to lock&lt;span class="hx:absolute hx:-mt-20" id="when-to-lock">&lt;/span>
+&lt;a href="#when-to-lock" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>You are fixing for 3-5 years&lt;/strong>: the longer the fix, the bigger the cost of an unfavourable move&lt;/li>
+&lt;li>&lt;strong>Settlement is 60+ days out&lt;/strong>: more time for the market to shift&lt;/li>
+&lt;li>&lt;strong>The RBA or market commentary suggests a hike is likely&lt;/strong>: rare in 2026&amp;rsquo;s cutting cycle, but worth reassessing per quote&lt;/li>
+&lt;li>&lt;strong>You cannot absorb a higher rate&lt;/strong>: if your serviceability was marginal, a 25 bp move could push you over the line at the 3% buffer stress-test&lt;/li>
+&lt;/ul>
+&lt;h2>When not to lock&lt;span class="hx:absolute hx:-mt-20" id="when-not-to-lock">&lt;/span>
+&lt;a href="#when-not-to-lock" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Short settlements&lt;/strong> (under 30 days): too little time for meaningful movement&lt;/li>
+&lt;li>&lt;strong>Cutting cycle&lt;/strong>: rates are more likely to fall than rise, so the lock is negative EV&lt;/li>
+&lt;li>&lt;strong>You have a variable-rate backup&lt;/strong>: if rates go up, you switch to variable and absorb; the lock only helps if you are committed to fixed&lt;/li>
+&lt;/ul>
+&lt;h2>Lender-specific quirks&lt;span class="hx:absolute hx:-mt-20" id="lender-specific-quirks">&lt;/span>
+&lt;a href="#lender-specific-quirks" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>CBA&lt;/strong>: $750 lock, valid 90 days, refunded if the loan doesn&amp;rsquo;t settle&lt;/li>
+&lt;li>&lt;strong>Westpac&lt;/strong>: $750 lock, valid 90 days&lt;/li>
+&lt;li>&lt;strong>NAB&lt;/strong>: 0.15% of loan amount (so $900 on $600k), valid 90 days&lt;/li>
+&lt;li>&lt;strong>ANZ&lt;/strong>: $750, valid 90 days&lt;/li>
+&lt;/ul>
+&lt;p>Some non-major lenders offer free rate lock if you commit to specific products. Always ask.&lt;/p>
+&lt;p>For a falling-rate market, skip the lock. For a rising-rate market with a 60+ day settlement and a 5-year fix, pay it.&lt;/p></description></item><item><title>Split loans: hedging when rates are uncertain</title><link>https://www.arrivau.com/split-loan-strategy/</link><pubDate>Sun, 16 Nov 2025 12:04:38 +1000</pubDate><author>hello@arrivau.com (Mitchell Harding)</author><guid>https://www.arrivau.com/split-loan-strategy/</guid><description>
+&lt;p>A split loan divides your borrowing into two or more portions, each with its own rate structure. The most common split is fixed + variable - you get some rate certainty plus the flexibility of offset and extra repayments.&lt;/p>
+&lt;h2>Why split at all&lt;span class="hx:absolute hx:-mt-20" id="why-split-at-all">&lt;/span>
+&lt;a href="#why-split-at-all" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A 100% variable loan exposes you to rate rises. A 100% fixed loan traps you with break costs if rates fall. A split gives you optionality in both directions, at the cost of some added complexity.&lt;/p>
+&lt;h2>The 50/50 default isn&amp;rsquo;t always right&lt;span class="hx:absolute hx:-mt-20" id="the-5050-default-isnt-always-right">&lt;/span>
+&lt;a href="#the-5050-default-isnt-always-right" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Advisers often suggest a 50/50 split without much analysis. The right ratio depends on:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Your budget sensitivity.&lt;/strong> If a 200 bp rise would force sacrifices, fix more of the loan.&lt;/li>
+&lt;li>&lt;strong>Your rate expectations.&lt;/strong> If you think rates are flat or falling, variable is the sharper bet; fix less.&lt;/li>
+&lt;li>&lt;strong>Your repayment plans.&lt;/strong> Fixed loans usually cap extra repayments at $10,000-$30,000 per year. If you plan aggressive prepayment, fix less.&lt;/li>
+&lt;/ul>
+&lt;h2>Four structures that actually work&lt;span class="hx:absolute hx:-mt-20" id="four-structures-that-actually-work">&lt;/span>
+&lt;a href="#four-structures-that-actually-work" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>80/20 variable-heavy&lt;/strong> - most of the loan in variable with full offset and unlimited extra repayments. A small 20% fixed portion hedges the sleep-at-night risk. Best for borrowers with a cash buffer and rising income expectations.&lt;/p>
+&lt;p>&lt;strong>50/50 balanced&lt;/strong> - half and half. Simple, intuitive, neither optimal nor bad. Good default for buyers unsure about their rate outlook.&lt;/p>
+&lt;p>&lt;strong>30/70 fixed-heavy&lt;/strong> - lock in most of the loan when you expect rising rates. Only makes sense in the early-to-mid stages of a hiking cycle; pricing in late stages already reflects expected peaks.&lt;/p>
+&lt;p>&lt;strong>Stepped fixing&lt;/strong> - fix 25% for 1 year, 25% for 2 years, 25% for 3 years, keep 25% variable. You reprice a quarter of the loan every year, smoothing the average rate over time. Elegant in theory; fiddly to manage in practice.&lt;/p>
+&lt;h2>Fees and traps&lt;span class="hx:absolute hx:-mt-20" id="fees-and-traps">&lt;/span>
+&lt;a href="#fees-and-traps" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Splitting is usually free&lt;/strong> at origination. Splitting an existing loan often incurs a $350 fee.&lt;/li>
+&lt;li>&lt;strong>Offset applies only to the variable portion.&lt;/strong> The fixed portion doesn&amp;rsquo;t benefit from offset balance.&lt;/li>
+&lt;li>&lt;strong>Break costs only apply to the fixed portion.&lt;/strong> Refinancing the variable half is free; the fixed half is expensive until the fix expires.&lt;/li>
+&lt;li>&lt;strong>Extra repayments usually can&amp;rsquo;t flow between portions.&lt;/strong> Money paid onto the fixed side stays there until maturity.&lt;/li>
+&lt;/ul>
+&lt;h2>What we&amp;rsquo;d suggest for most clients&lt;span class="hx:absolute hx:-mt-20" id="what-wed-suggest-for-most-clients">&lt;/span>
+&lt;a href="#what-wed-suggest-for-most-clients" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>For a first-home buyer on a tight budget: 60% fixed (3 years) + 40% variable with offset. Cash in the offset builds your buffer; fixed gives you certainty during the early years when the loan balance is highest.&lt;/p>
+&lt;p>For an investor: 100% variable. Offset on the owner-occupier, interest-only on the investment, flexibility on both. Splits rarely earn their keep on investment files.&lt;/p></description></item><item><title>Fixed vs variable when the RBA is cutting</title><link>https://www.arrivau.com/fixed-vs-variable-rate-cut-cycle/</link><pubDate>Wed, 12 Nov 2025 14:04:57 +1000</pubDate><author>hello@arrivau.com (Mitchell Harding)</author><guid>https://www.arrivau.com/fixed-vs-variable-rate-cut-cycle/</guid><description>
+&lt;p>When the Reserve Bank is cutting rates, locking in a fixed rate feels counterintuitive - and it usually is. But the case against fixing during a cutting cycle is more nuanced than &amp;ldquo;variable is obviously better&amp;rdquo;. Here is how we frame the decision for clients.&lt;/p>
+&lt;h2>Fixed rate pricing already prices in cuts&lt;span class="hx:absolute hx:-mt-20" id="fixed-rate-pricing-already-prices-in-cuts">&lt;/span>
+&lt;a href="#fixed-rate-pricing-already-prices-in-cuts" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Lenders don&amp;rsquo;t guess where the RBA is going; they hedge it in the swap market. By the time the RBA makes its third cut, the 2-year and 3-year fixed rates have already repriced to reflect where swap markets expect rates to land 18-24 months from now. In other words, the fixed rate you are offered today already embeds market consensus about future cuts.&lt;/p>
+&lt;p>This means the old rule of thumb - &amp;ldquo;fix when the RBA is hiking, float when they&amp;rsquo;re cutting&amp;rdquo; - only works if your view of future rates differs from the consensus embedded in the swap curve. If you think rates will fall further than the market expects, variable wins. If you think they&amp;rsquo;ll fall less than expected, fixed wins.&lt;/p>
+&lt;h2>The break-cost asymmetry&lt;span class="hx:absolute hx:-mt-20" id="the-break-cost-asymmetry">&lt;/span>
+&lt;a href="#the-break-cost-asymmetry" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Fixed loans in Australia come with break costs if you repay early. The break cost is calculated as the net present value of the lender&amp;rsquo;s lost interest - which becomes brutal precisely when rates have moved against you. So if you fix and rates fall further than expected, you are trapped: variable would have been cheaper, and unwinding the fixed loan costs tens of thousands.&lt;/p>
+&lt;p>In the current cycle, 3-year fixed rates are priced about 20 bps below the leading variable rate. That implies the market expects roughly one more 25 bp cut in the next 18 months. If the RBA delivers more than one cut, variable wins; if it delivers less, fixed wins.&lt;/p>
+&lt;h2>When fixing still makes sense&lt;span class="hx:absolute hx:-mt-20" id="when-fixing-still-makes-sense">&lt;/span>
+&lt;a href="#when-fixing-still-makes-sense" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Three situations argue for fixing even in a cutting cycle:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Budget certainty outweighs rate optimisation.&lt;/strong> Young family with a tight margin who will panic if repayments rise - certainty is worth giving up the expected 20 bps.&lt;/li>
+&lt;li>&lt;strong>A split is available at no cost.&lt;/strong> Most lenders allow free splits. Fixing 40-50% of the loan hedges your downside while leaving the offset and flexibility on the variable portion.&lt;/li>
+&lt;li>&lt;strong>You&amp;rsquo;re about to take a career break.&lt;/strong> If you know serviceability will tighten in 12 months (maternity leave, sabbatical), locking in a known repayment is a useful hedge.&lt;/li>
+&lt;/ol>
+&lt;h2>What we&amp;rsquo;d do&lt;span class="hx:absolute hx:-mt-20" id="what-wed-do">&lt;/span>
+&lt;a href="#what-wed-do" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>For a typical client in April 2026, we&amp;rsquo;d recommend staying variable for the full loan, keeping a fully-offset balance of 3-6 months of repayments, and revisiting if the RBA pauses the cutting cycle.&lt;/p></description></item></channel></rss>

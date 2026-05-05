@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arrivau — Australian Home Loans, Property &amp; Migration – Break Cost</title><link>https://www.arrivau.com/tags/break-cost/</link><description>Recent content in Break Cost on Arrivau — Australian Home Loans, Property &amp; Migration</description><generator>Hugo -- gohugo.io</generator><language>en-AU</language><managingEditor>hello@arrivau.com (Mitchell Harding)</managingEditor><webMaster>hello@arrivau.com (Mitchell Harding)</webMaster><copyright>Copyright © Arrivau Pty Ltd (ABN 81 643 901 599) · 16/650 George St, Sydney NSW 2000&lt;br>
+ASIC Credit Representative CRN 530978 · NSW Real Estate Licence 20253209 · Registered Migration Agent MARN 1687552&lt;br>
+Content on this site is general information only and does not constitute personal financial, tax or legal advice. Speak to a licensed professional before acting.</copyright><lastBuildDate>Sun, 12 Apr 2026 18:37:35 +1000</lastBuildDate><atom:link href="https://www.arrivau.com/tags/break-cost/index.xml" rel="self" type="application/rss+xml"/><item><title>How break costs on a fixed loan are actually calculated</title><link>https://www.arrivau.com/break-costs-on-fixed-loans/</link><pubDate>Sun, 12 Apr 2026 18:37:35 +1000</pubDate><author>hello@arrivau.com (Mitchell Harding)</author><guid>https://www.arrivau.com/break-costs-on-fixed-loans/</guid><description>
+&lt;p>When you repay or refinance a fixed-rate loan before the fixed period ends, the lender charges a break cost. The calculation method is publicly disclosed in every fixed-rate contract, but most borrowers never read it.&lt;/p>
+&lt;h2>The underlying principle&lt;span class="hx:absolute hx:-mt-20" id="the-underlying-principle">&lt;/span>
+&lt;a href="#the-underlying-principle" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>When you fixed your rate, the lender went to the wholesale market and fixed its own funding at the same term. If you break early and rates have fallen, the lender has to sell its swap position at a loss. The break cost recovers that loss.&lt;/p>
+&lt;p>Crucially, if rates have risen since you fixed, the break cost can be zero or even negative - the lender&amp;rsquo;s swap position is in profit. In practice lenders rarely rebate positive break costs; they just waive them.&lt;/p>
+&lt;h2>A worked example&lt;span class="hx:absolute hx:-mt-20" id="a-worked-example">&lt;/span>
+&lt;a href="#a-worked-example" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Suppose you fixed $600,000 for 3 years at 5.50% on 1 July 2024. Two years in, on 1 July 2026, you want to refinance. Remaining fixed term: 1 year. Current 1-year bank bill swap rate (BBSW): 3.80%.&lt;/p>
+&lt;p>The break cost formula is:&lt;/p>
+&lt;p>&lt;strong>Break cost = Loan balance × (Original swap rate - Current swap rate) × Remaining term&lt;/strong>&lt;/p>
+&lt;p>Rough numbers:&lt;/p>
+&lt;ul>
+&lt;li>Loan balance: ~$575,000 (reduced over 2 years of P&amp;amp;I repayments)&lt;/li>
+&lt;li>Original 3-year swap when you fixed: ~4.00%&lt;/li>
+&lt;li>Current 1-year swap: 3.80%&lt;/li>
+&lt;li>Remaining term: 1 year&lt;/li>
+&lt;/ul>
+&lt;p>Break cost ≈ $575,000 × (4.00% - 3.80%) × 1 = &lt;strong>$1,150&lt;/strong>&lt;/p>
+&lt;p>If rates had fallen further, say the current 1-year swap was 2.80%:&lt;/p>
+&lt;p>Break cost ≈ $575,000 × (4.00% - 2.80%) × 1 = &lt;strong>$6,900&lt;/strong>&lt;/p>
+&lt;p>And in a dramatic drop, 1.80%:&lt;/p>
+&lt;p>Break cost ≈ $575,000 × (4.00% - 1.80%) × 1 = &lt;strong>$12,650&lt;/strong>&lt;/p>
+&lt;p>The asymmetry is real: small rate moves cost hundreds; large moves cost thousands.&lt;/p>
+&lt;h2>Refinements the actual formula includes&lt;span class="hx:absolute hx:-mt-20" id="refinements-the-actual-formula-includes">&lt;/span>
+&lt;a href="#refinements-the-actual-formula-includes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Real lender formulas refine this with:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>NPV discounting&lt;/strong> - each year&amp;rsquo;s lost margin is discounted to present value&lt;/li>
+&lt;li>&lt;strong>Lender&amp;rsquo;s margin, not swap rate&lt;/strong> - some lenders use their internal cost of funds&lt;/li>
+&lt;li>&lt;strong>Administration fee&lt;/strong> - a flat $250-$400 on top of the calculation&lt;/li>
+&lt;/ul>
+&lt;p>Most lenders will give you a break-cost quote on request. It&amp;rsquo;s valid for 48 hours.&lt;/p>
+&lt;h2>When breaking still makes sense&lt;span class="hx:absolute hx:-mt-20" id="when-breaking-still-makes-sense">&lt;/span>
+&lt;a href="#when-breaking-still-makes-sense" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Three cases:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>The savings from refinancing outweigh the break cost.&lt;/strong> Rare - usually only true if the break cost is under $2,000 and the new rate is 100+ bps sharper for a long term.&lt;/li>
+&lt;li>&lt;strong>You need to sell.&lt;/strong> Selling a fixed-rate property with 2 years to go - you pay the break cost because you have to.&lt;/li>
+&lt;li>&lt;strong>You&amp;rsquo;re converting owner-occupier to investment.&lt;/strong> Sometimes the tax deductibility of a higher-rate investment loan outweighs the break cost on the lower-rate owner-occupier fixed.&lt;/li>
+&lt;/ol>
+&lt;h2>What never makes sense&lt;span class="hx:absolute hx:-mt-20" id="what-never-makes-sense">&lt;/span>
+&lt;a href="#what-never-makes-sense" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Breaking a fixed loan that has less than 6 months remaining, or breaking to fix at a longer term when swap rates have fallen further than the new fixed offering reflects.&lt;/p></description></item></channel></rss>

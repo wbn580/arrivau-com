@@ -1,0 +1,121 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arrivau — Australian Home Loans, Property &amp; Migration – Health Insurance</title><link>https://www.arrivau.com/tags/health-insurance/</link><description>Recent content in Health Insurance on Arrivau — Australian Home Loans, Property &amp; Migration</description><generator>Hugo -- gohugo.io</generator><language>en-AU</language><managingEditor>hello@arrivau.com (Mitchell Harding)</managingEditor><webMaster>hello@arrivau.com (Mitchell Harding)</webMaster><copyright>Copyright © Arrivau Pty Ltd (ABN 81 643 901 599) · 16/650 George St, Sydney NSW 2000&lt;br>
+ASIC Credit Representative CRN 530978 · NSW Real Estate Licence 20253209 · Registered Migration Agent MARN 1687552&lt;br>
+Content on this site is general information only and does not constitute personal financial, tax or legal advice. Speak to a licensed professional before acting.</copyright><lastBuildDate>Wed, 05 Nov 2025 12:47:59 +1000</lastBuildDate><atom:link href="https://www.arrivau.com/tags/health-insurance/index.xml" rel="self" type="application/rss+xml"/><item><title>Private health insurance and tax: the math</title><link>https://www.arrivau.com/private-health-insurance-tax/</link><pubDate>Wed, 05 Nov 2025 12:47:59 +1000</pubDate><author>hello@arrivau.com (Mitchell Harding)</author><guid>https://www.arrivau.com/private-health-insurance-tax/</guid><description>
+&lt;p>The interaction between private health insurance and Australian tax is complex. Three separate mechanisms apply: the Medicare Levy Surcharge (MLS), the Australian Government Rebate, and the Lifetime Health Cover (LHC) loading. Optimising across all three requires understanding how they interact rather than treating each independently.&lt;/p>
+&lt;h2>The three mechanisms at a glance&lt;span class="hx:absolute hx:-mt-20" id="the-three-mechanisms-at-a-glance">&lt;/span>
+&lt;a href="#the-three-mechanisms-at-a-glance" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>MLS&lt;/strong>: penalty for not having private hospital cover above income thresholds (1-1.5%)
+&lt;strong>Rebate&lt;/strong>: government subsidy on premium cost, income-tested (0-24.6% depending on tier)
+&lt;strong>LHC&lt;/strong>: loading on premium if cover not held before age 31 (2% per year of delay)&lt;/p>
+&lt;h2>Who pays what (2025-26 rates)&lt;span class="hx:absolute hx:-mt-20" id="who-pays-what-2025-26-rates">&lt;/span>
+&lt;a href="#who-pays-what-2025-26-rates" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>For a single person:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Income Range&lt;/th>
+&lt;th>MLS (no cover)&lt;/th>
+&lt;th>Rebate (with cover, age &amp;lt;65)&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&amp;lt;$97,000&lt;/td>
+&lt;td>0%&lt;/td>
+&lt;td>24.608%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>$97,001 - $113,000&lt;/td>
+&lt;td>1.0%&lt;/td>
+&lt;td>16.405%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>$113,001 - $151,000&lt;/td>
+&lt;td>1.25%&lt;/td>
+&lt;td>8.202%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>$151,001+&lt;/td>
+&lt;td>1.5%&lt;/td>
+&lt;td>0%&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>For families, the thresholds roughly double.&lt;/p>
+&lt;h2>The dual hit at higher incomes&lt;span class="hx:absolute hx:-mt-20" id="the-dual-hit-at-higher-incomes">&lt;/span>
+&lt;a href="#the-dual-hit-at-higher-incomes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Someone earning $160k (single) faces:&lt;/p>
+&lt;ul>
+&lt;li>MLS without cover: 1.5% = $2,400/year&lt;/li>
+&lt;li>Rebate with cover: 0%&lt;/li>
+&lt;li>Typical private cover cost: $1,500-$2,000/year (basic tier)&lt;/li>
+&lt;/ul>
+&lt;p>The math: pay $1,500-$2,000 for cover, or $2,400 in MLS. Net saving from having cover: ~$400-$900/year. The insurance pays for itself.&lt;/p>
+&lt;p>For the same person at $90k (single, below MLS threshold):&lt;/p>
+&lt;ul>
+&lt;li>MLS without cover: 0%&lt;/li>
+&lt;li>Rebate with cover: 24.6%&lt;/li>
+&lt;li>Private cover cost: $1,500 × (1 - 0.246) = $1,131 net cost&lt;/li>
+&lt;/ul>
+&lt;p>No tax penalty for being uncovered, but insurance costs $1,131 net if purchased. Decision is entirely about the insurance value.&lt;/p>
+&lt;h2>The income test impact on rebate&lt;span class="hx:absolute hx:-mt-20" id="the-income-test-impact-on-rebate">&lt;/span>
+&lt;a href="#the-income-test-impact-on-rebate" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The rebate is lifestyle-adjusted on your rebate-tier test income, which includes:&lt;/p>
+&lt;ul>
+&lt;li>Taxable income&lt;/li>
+&lt;li>Reportable fringe benefits&lt;/li>
+&lt;li>Reportable super contributions (not mandatory super)&lt;/li>
+&lt;li>Net investment losses&lt;/li>
+&lt;li>Foreign income&lt;/li>
+&lt;/ul>
+&lt;p>Many salary-packaged employees find their rebate-tier income is substantially above their salary, pushing them into a higher rebate tier (lower rebate).&lt;/p>
+&lt;h2>Lifetime Health Cover - the penalty for late entry&lt;span class="hx:absolute hx:-mt-20" id="lifetime-health-cover---the-penalty-for-late-entry">&lt;/span>
+&lt;a href="#lifetime-health-cover---the-penalty-for-late-entry" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>LHC applies to anyone who takes out private hospital cover after age 31:&lt;/p>
+&lt;ul>
+&lt;li>2% loading for each year over 30 when first cover starts&lt;/li>
+&lt;li>Maximum loading: 70% (reached at age 65 first entry)&lt;/li>
+&lt;li>Loading removed after 10 years of continuous cover&lt;/li>
+&lt;/ul>
+&lt;p>Example: Starting cover at age 40 means 20% loading on your premium. Ordinary $1,500 premium becomes $1,800. After 10 years of continuous cover, the loading drops off.&lt;/p>
+&lt;h2>The Lifetime Health Cover decision before age 31&lt;span class="hx:absolute hx:-mt-20" id="the-lifetime-health-cover-decision-before-age-31">&lt;/span>
+&lt;a href="#the-lifetime-health-cover-decision-before-age-31" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>For a 29-year-old Australian:&lt;/p>
+&lt;ul>
+&lt;li>Below MLS threshold: no tax penalty for being uncovered&lt;/li>
+&lt;li>Above MLS threshold: financial penalty immediately&lt;/li>
+&lt;/ul>
+&lt;p>The pre-31 decision is really about:&lt;/p>
+&lt;ul>
+&lt;li>Future expected cover (if you anticipate ever wanting private cover, taking it before 31 saves money long-term)&lt;/li>
+&lt;li>Income trajectory (if income will cross MLS thresholds within 5 years)&lt;/li>
+&lt;li>Values / convenience (the insurance value itself)&lt;/li>
+&lt;/ul>
+&lt;p>For many young professionals with expected income growth, taking out basic cover at age 29-30 captures the LHC protection cheaply. The basic-tier cost at 29 ($900-$1,200) is far less than the compound loading cost from delaying to 40+.&lt;/p>
+&lt;h2>Strategic cover selection&lt;span class="hx:absolute hx:-mt-20" id="strategic-cover-selection">&lt;/span>
+&lt;a href="#strategic-cover-selection" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Private hospital cover tiers:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Basic&lt;/strong>: cheapest; cover for pregnancy and obstetrics excluded; suitable for young people avoiding MLS/LHC&lt;/li>
+&lt;li>&lt;strong>Bronze&lt;/strong>: mid-tier; covers most common procedures&lt;/li>
+&lt;li>&lt;strong>Silver&lt;/strong>: covers more specialist procedures (IVF, cataract, joint replacement)&lt;/li>
+&lt;li>&lt;strong>Gold&lt;/strong>: comprehensive; covers pregnancy, cardiac, joint replacement, IVF&lt;/li>
+&lt;/ul>
+&lt;p>Cheapest cover sufficient to avoid MLS: any policy with excess $750 or less for singles. Hospital-extras-only policies do NOT qualify.&lt;/p>
+&lt;h2>Annual premium review&lt;span class="hx:absolute hx:-mt-20" id="annual-premium-review">&lt;/span>
+&lt;a href="#annual-premium-review" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Premiums rise each year (typically 3-7%). The rebate tiers shift with wage growth but may not keep pace exactly. Annual checks:&lt;/p>
+&lt;ol>
+&lt;li>Your income relative to rebate and MLS thresholds&lt;/li>
+&lt;li>Your policy tier and whether a cheaper tier still satisfies your needs&lt;/li>
+&lt;li>Your LHC status (how many years of loading remain)&lt;/li>
+&lt;li>Competitor policies at your chosen tier (switching penalty is negligible; shop annually)&lt;/li>
+&lt;/ol>
+&lt;h2>The strategic sequence&lt;span class="hx:absolute hx:-mt-20" id="the-strategic-sequence">&lt;/span>
+&lt;a href="#the-strategic-sequence" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Age 25-30&lt;/strong>: Take out basic private hospital cover. Low premium, no LHC loading, positions you for future income growth without penalty.&lt;/p>
+&lt;p>&lt;strong>Age 30-40&lt;/strong>: If income crosses MLS thresholds, upgrade cover to match needs and maintain continuous cover. Rebate reduces cost.&lt;/p>
+&lt;p>&lt;strong>Age 40+&lt;/strong>: If you haven&amp;rsquo;t had continuous cover, LHC loading is significant. Take out at least basic cover to cap the loading at current level; continue 10 years to remove it.&lt;/p>
+&lt;p>&lt;strong>High-income earners ($151k+ single, $302k+ family)&lt;/strong>: Rebate drops to 0%. Insurance cost is full-price but MLS avoidance is 1.5%. Insurance is usually still net-positive.&lt;/p>
+&lt;h2>What doesn&amp;rsquo;t help&lt;span class="hx:absolute hx:-mt-20" id="what-doesnt-help">&lt;/span>
+&lt;a href="#what-doesnt-help" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Travel insurance with hospital coverage&lt;/strong>: does not qualify to avoid MLS&lt;/li>
+&lt;li>&lt;strong>Extras-only policies&lt;/strong> (dental, optical, physio): do not qualify&lt;/li>
+&lt;li>&lt;strong>Policies with excess above $750 single / $1,500 family&lt;/strong>: do not satisfy MLS requirements&lt;/li>
+&lt;li>&lt;strong>Policies held less than 12 months in the tax year&lt;/strong>: pro-rata MLS may apply&lt;/li>
+&lt;/ul>
+&lt;h2>The administrative side&lt;span class="hx:absolute hx:-mt-20" id="the-administrative-side">&lt;/span>
+&lt;a href="#the-administrative-side" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>MLS is calculated automatically from your tax return based on reported income and reported private cover. The rebate can be taken as a premium reduction (lower fortnightly/monthly premium) or as a tax offset at year-end. Most insurers default to premium reduction.&lt;/p>
+&lt;p>Document your cover (health fund statement) at year-end. If you had cover for only part of the year, MLS is calculated on the uncovered period pro-rata.&lt;/p>
+&lt;p>Private health insurance and tax interact intricately. Annual review - not one-time setup - is the right approach.&lt;/p></description></item></channel></rss>

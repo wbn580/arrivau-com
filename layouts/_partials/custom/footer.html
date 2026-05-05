@@ -1,0 +1,45 @@
+{{- /*
+  Arrivau.com — floating contact buttons (English variant)
+  Differentiated from arrivau.com.au: different colour palette,
+  different CTA labels, no WeChat KF (English audience uses phone/email).
+*/ -}}
+
+<style>
+  .av-fab-stack{
+    position:fixed;right:20px;bottom:24px;
+    display:flex;flex-direction:column;align-items:flex-end;gap:12px;z-index:9999;
+  }
+  .av-fab{
+    display:inline-flex !important;align-items:center;gap:10px;
+    padding:12px 22px;border:0;border-radius:9999px;
+    font-size:14px;font-weight:600 !important;color:#fff !important;
+    cursor:pointer;text-decoration:none;
+    box-shadow:0 6px 16px rgba(0,0,0,.18);
+    transition:transform 180ms ease,box-shadow 180ms ease,filter 180ms ease;
+    white-space:nowrap;line-height:1;font-family:inherit;
+    min-width:120px;min-height:44px;justify-content:flex-start;
+    text-shadow:0 1px 2px rgba(0,0,0,.25);
+  }
+  .av-fab:hover{transform:translateY(-2px);box-shadow:0 12px 24px rgba(0,0,0,.22);filter:brightness(1.06)}
+  .av-fab svg{width:20px !important;height:20px !important;flex-shrink:0;color:#fff !important;fill:currentColor;stroke:currentColor;opacity:1 !important}
+  .av-fab--brand{background:#0F6DB0}
+  .av-fab--phone{background:#093F67}
+  .av-fab--email{background:#F4A12A;color:#1a1a1a !important;text-shadow:none}
+  .av-fab--email svg{color:#1a1a1a !important}
+  @media (max-width:600px){ .av-fab{padding:10px 16px;font-size:13px;min-width:0} .av-fab span{display:none !important} }
+</style>
+
+<div class="av-fab-stack">
+  <a href="/contact/" class="av-fab av-fab--brand" aria-label="Get a free loan assessment">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+    <span>Free assessment</span>
+  </a>
+  <a href="tel:+61451827455" class="av-fab av-fab--phone" aria-label="Call Arrivau">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13 1.05.37 2.08.72 3.06a2 2 0 0 1-.45 2.11L8.09 10.2a16 16 0 0 0 6 6l1.31-1.31a2 2 0 0 1 2.11-.45c.98.35 2.01.59 3.06.72A2 2 0 0 1 22 16.92z"/></svg>
+    <span>+61 451 827 455</span>
+  </a>
+  <a href="mailto:hello@arrivau.com" class="av-fab av-fab--email" aria-label="Email Arrivau">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><path d="M22 6l-10 7L2 6"/></svg>
+    <span>hello@arrivau.com</span>
+  </a>
+</div>

@@ -1,0 +1,129 @@
+# ============================================================
+# Arrivau.com — English site (2026-04-23)
+# Theme: Hextra (forked from imfing/hextra)
+# ============================================================
+
+baseURL = "https://www.arrivau.com/"
+theme = "hextra"
+defaultContentLanguage = "en"
+languageCode = "en-AU"
+title = "Arrivau — Australian Home Loans, Property & Migration"
+copyright = """Copyright © Arrivau Pty Ltd (ABN 81 643 901 599) · 16/650 George St, Sydney NSW 2000<br>
+ASIC Credit Representative CRN 530978 · NSW Real Estate Licence 20253209 · Registered Migration Agent MARN 1687552<br>
+Content on this site is general information only and does not constitute personal financial, tax or legal advice. Speak to a licensed professional before acting."""
+
+enableRobotsTXT = true
+enableGitInfo = false
+summaryLength = 70
+
+[permalinks]
+  post = "/:slug/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+
+[pagination]
+  pagerSize = 12
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-AU"
+    title = "Arrivau — Australian Home Loans, Property & Migration"
+    weight = 1
+
+    [[languages.en.menu.main]]
+      name = "Home"
+      pageRef = "/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name = "Home Loans"
+      pageRef = "/categories/home-loans"
+      weight = 2
+    [[languages.en.menu.main]]
+      name = "Property"
+      pageRef = "/categories/property"
+      weight = 3
+    [[languages.en.menu.main]]
+      name = "Calculators"
+      pageRef = "/calculators"
+      weight = 4
+    [[languages.en.menu.main]]
+      name = "Tax & Investing"
+      pageRef = "/categories/tax"
+      weight = 5
+    [[languages.en.menu.main]]
+      name = "Migration"
+      pageRef = "/categories/migration"
+      weight = 6
+    [[languages.en.menu.main]]
+      name = "About"
+      pageRef = "/about"
+      weight = 7
+    [[languages.en.menu.main]]
+      name = "Search"
+      weight = 8
+      params = { type = "search" }
+    [[languages.en.menu.main]]
+      name = "中文"
+      url = "https://www.arrivau.com.au/"
+      weight = 9
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    noClasses = false
+    lineNos = false
+    codeFences = true
+    guessSyntax = true
+    tabWidth = 2
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+
+[params]
+  description = "Arrivau — independent Australian home-loan broking, property advice, tax planning and migration guidance in plain English. Licensed MFAA broker, NSW real-estate agent and registered migration agent under one roof."
+  images = ["/og/default.png"]
+
+  [params.author]
+    name = "Mitchell Harding"
+    email = "hello@arrivau.com"
+
+  [params.navbar]
+    displayTitle = true
+    displayLogo = false
+    width = "wide"
+
+  [params.footer]
+    enable = true
+    displayCopyright = true
+    displayPoweredBy = false
+    width = "wide"
+
+  [params.theme]
+    default = "system"
+    displayToggle = true
+
+  [params.search]
+    enable = true
+    type = "flexsearch"
+    [params.search.flexsearch]
+      index = "content"
+
+  [params.page]
+    width = "wide"
+
+  [params.toc]
+    displayTags = true
+    displayTOC = true
+
+  [params.editURL]
+    enable = false

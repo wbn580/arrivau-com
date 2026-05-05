@@ -1,0 +1,76 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arrivau — Australian Home Loans, Property &amp; Migration – Data</title><link>https://www.arrivau.com/tags/data/</link><description>Recent content in Data on Arrivau — Australian Home Loans, Property &amp; Migration</description><generator>Hugo -- gohugo.io</generator><language>en-AU</language><managingEditor>hello@arrivau.com (Mitchell Harding)</managingEditor><webMaster>hello@arrivau.com (Mitchell Harding)</webMaster><copyright>Copyright © Arrivau Pty Ltd (ABN 81 643 901 599) · 16/650 George St, Sydney NSW 2000&lt;br>
+ASIC Credit Representative CRN 530978 · NSW Real Estate Licence 20253209 · Registered Migration Agent MARN 1687552&lt;br>
+Content on this site is general information only and does not constitute personal financial, tax or legal advice. Speak to a licensed professional before acting.</copyright><lastBuildDate>Sun, 22 Mar 2026 21:34:07 +1000</lastBuildDate><atom:link href="https://www.arrivau.com/tags/data/index.xml" rel="self" type="application/rss+xml"/><item><title>How suburbs really sell: 90 days of sales data unpacked</title><link>https://www.arrivau.com/how-suburbs-really-sell/</link><pubDate>Sun, 22 Mar 2026 21:34:07 +1000</pubDate><author>hello@arrivau.com (Mitchell Harding)</author><guid>https://www.arrivau.com/how-suburbs-really-sell/</guid><description>
+&lt;p>Median sale prices in a suburb are a rearview-mirror number. By the time the ABS or CoreLogic publishes the quarter, the buyers who set those prices have settled and moved on. What moves prices forward is a different set of signals, and they live in the 90 days of data around the top of the market.&lt;/p>
+&lt;h2>The four signals that matter&lt;span class="hx:absolute hx:-mt-20" id="the-four-signals-that-matter">&lt;/span>
+&lt;a href="#the-four-signals-that-matter" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>1. Days on market by price band&lt;/strong>
+If the top of a suburb&amp;rsquo;s market (top 20% of sales) is selling in 14 days or less, the suburb is in acceleration. If days-on-market are stretching past 45 days in that band, the market is cooling ahead of the broader median.&lt;/p>
+&lt;p>&lt;strong>2. Auction clearance rate in the suburb, not the region&lt;/strong>
+Corelogic and Domain publish region-wide clearance rates. Suburb-level rates, if you can find them via an agent or via a direct clearance report, are more predictive. A region at 65% clearance can contain suburbs at 85% and suburbs at 45%.&lt;/p>
+&lt;p>&lt;strong>3. Vendor discounting&lt;/strong>
+The gap between original list price and sale price. In a rising market, properties sell at or above list. As the market turns, vendors are still listing at the old optimistic price, but sale prices start to drift below. A vendor-discount number moving from 0% to 3-5% over a quarter is a leading indicator of a broader median move.&lt;/p>
+&lt;p>&lt;strong>4. Sale volumes&lt;/strong>
+Volume - the number of sales - shifts before median prices. In the last three suburb-level cycles, volumes declined 10-20% ahead of median price declines of 5-10%. Rising volumes in a flat median usually precede a price move up.&lt;/p>
+&lt;h2>Where to find the data&lt;span class="hx:absolute hx:-mt-20" id="where-to-find-the-data">&lt;/span>
+&lt;a href="#where-to-find-the-data" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Domain Price Finder and Domain Suburb Profile&lt;/strong>: basic sale history, free&lt;/li>
+&lt;li>&lt;strong>CoreLogic RP Data via a broker or agent&lt;/strong>: deeper data, typically broker/agent access&lt;/li>
+&lt;li>&lt;strong>OnTheHouse.com.au&lt;/strong>: historical prices, free&lt;/li>
+&lt;li>&lt;strong>Realestate.com.au&amp;rsquo;s &amp;ldquo;Sold&amp;rdquo; tab&lt;/strong>: recent sales with photos, useful for quality adjusting&lt;/li>
+&lt;/ul>
+&lt;h2>The 90-day look-through&lt;span class="hx:absolute hx:-mt-20" id="the-90-day-look-through">&lt;/span>
+&lt;a href="#the-90-day-look-through" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>For the suburb you are considering, pull the last 90 days of sales and stratify:&lt;/p>
+&lt;ul>
+&lt;li>Top quartile (most expensive 25%): what sold, how quickly, at what premium to similar non-selling stock?&lt;/li>
+&lt;li>Middle quartile: the workhorse sales, most comparable to what you might buy&lt;/li>
+&lt;li>Bottom quartile: often distressed, tenanted, or sub-par stock&lt;/li>
+&lt;/ul>
+&lt;p>Only the middle quartile is a useful comp for your purchase. But the pace of the top quartile tells you whether the suburb is in acceleration, plateau, or decline.&lt;/p>
+&lt;h2>What this changes in the offer&lt;span class="hx:absolute hx:-mt-20" id="what-this-changes-in-the-offer">&lt;/span>
+&lt;a href="#what-this-changes-in-the-offer" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>If your target suburb&amp;rsquo;s top quartile is clearing in 14 days with minimal discounting, do not low-ball. The vendor has alternatives. If the top quartile has days-on-market stretching to 60 days and discounting is creeping up, you have more room to negotiate.&lt;/p></description></item><item><title>How to read a comparable sales report like an agent</title><link>https://www.arrivau.com/comparable-sales-report/</link><pubDate>Sun, 11 Jan 2026 16:10:28 +1000</pubDate><author>hello@arrivau.com (Mitchell Harding)</author><guid>https://www.arrivau.com/comparable-sales-report/</guid><description>
+&lt;p>A comparable sales report - the selection of recent sales of similar properties used to establish market value - is what valuers use, what agents cite, and what you should be building yourself before any serious offer. Doing it properly takes two hours and gives you an independent number to negotiate against.&lt;/p>
+&lt;h2>What &amp;ldquo;comparable&amp;rdquo; actually means&lt;span class="hx:absolute hx:-mt-20" id="what-comparable-actually-means">&lt;/span>
+&lt;a href="#what-comparable-actually-means" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Not just any sale in the suburb. A true comparable shares:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Location&lt;/strong>: same or equivalent suburb, preferably within 500-800m&lt;/li>
+&lt;li>&lt;strong>Type&lt;/strong>: house vs unit vs townhouse - never cross-compare&lt;/li>
+&lt;li>&lt;strong>Size&lt;/strong>: land and building area within 15-20% of the subject&lt;/li>
+&lt;li>&lt;strong>Bedrooms and bathrooms&lt;/strong>: same count&lt;/li>
+&lt;li>&lt;strong>Parking&lt;/strong>: same type (garage vs carport vs off-street)&lt;/li>
+&lt;li>&lt;strong>Condition and era&lt;/strong>: renovated mid-century weatherboard is not comparable to original 1960s brick veneer, even if same bedroom count&lt;/li>
+&lt;li>&lt;strong>Sale date&lt;/strong>: within the last 3-6 months. Older sales need adjustment for market movement&lt;/li>
+&lt;/ul>
+&lt;h2>Where to find the data&lt;span class="hx:absolute hx:-mt-20" id="where-to-find-the-data">&lt;/span>
+&lt;a href="#where-to-find-the-data" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Realestate.com.au &amp;ldquo;Sold&amp;rdquo; filter&lt;/strong>: free, 12 months of history, with photos&lt;/li>
+&lt;li>&lt;strong>Domain Price Finder&lt;/strong>: free, slightly different coverage&lt;/li>
+&lt;li>&lt;strong>OnTheHouse.com.au&lt;/strong>: 15+ years of history, useful for long-run trend&lt;/li>
+&lt;li>&lt;strong>CoreLogic via broker or agent&lt;/strong>: deeper data, detailed attribute matching&lt;/li>
+&lt;li>&lt;strong>Pricefinder&lt;/strong>: subscription, used by valuers, most granular&lt;/li>
+&lt;/ul>
+&lt;h2>Building the comparison&lt;span class="hx:absolute hx:-mt-20" id="building-the-comparison">&lt;/span>
+&lt;a href="#building-the-comparison" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
+&lt;li>
+&lt;p>Pull 6-10 recent sales that roughly fit your property&amp;rsquo;s profile&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Eliminate outliers (bottom and top 20%) - you&amp;rsquo;re looking for the median, not the range&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>For each remaining comparable, adjust:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>+/- for land size&lt;/strong>: ~$800-$1,500 per square metre in middle-ring Sydney; less elsewhere&lt;/li>
+&lt;li>&lt;strong>+/- for building area&lt;/strong>: $2,500-$4,000 per square metre construction equivalent&lt;/li>
+&lt;li>&lt;strong>+/- for condition&lt;/strong>: $30k-$80k for a kitchen update, $20k-$50k per bathroom&lt;/li>
+&lt;li>&lt;strong>+/- for days elapsed&lt;/strong>: if the market has moved 0.5% per month, a 4-month-old sale is 2% below today&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Take the adjusted average of the top 4-5 matches.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2>The valuer&amp;rsquo;s trick&lt;span class="hx:absolute hx:-mt-20" id="the-valuers-trick">&lt;/span>
+&lt;a href="#the-valuers-trick" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Valuers don&amp;rsquo;t look at averages; they look at paired comparisons. They pick the most comparable sale, note exactly what differs (100m² more land, one more bathroom), and adjust for those specific differences. The result is a valuation range, not a single number. Your range might be &amp;ldquo;$920k-$975k&amp;rdquo; for a subject property that the agent is pushing at $1.05m.&lt;/p>
+&lt;h2>Using the report in negotiation&lt;span class="hx:absolute hx:-mt-20" id="using-the-report-in-negotiation">&lt;/span>
+&lt;a href="#using-the-report-in-negotiation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Present the comparables to the agent in writing. Not a verbal &amp;ldquo;I&amp;rsquo;ve done some research&amp;rdquo; but a spreadsheet: here are 5 comparable recent sales, here is your subject, here is my offer. This reframes the conversation from &amp;ldquo;what&amp;rsquo;s the vendor willing to accept&amp;rdquo; to &amp;ldquo;what&amp;rsquo;s the market value, and what premium am I willing to pay above it&amp;rdquo;.&lt;/p>
+&lt;p>Agents push back. A good vendor-side agent will produce their own comparable set with favourable selections. That&amp;rsquo;s expected. The exchange narrows the price range, which is exactly what a rational buyer wants.&lt;/p></description></item></channel></rss>
